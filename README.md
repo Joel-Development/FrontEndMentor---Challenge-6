@@ -7,8 +7,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
 
 ## Overview
 
@@ -20,9 +19,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 - Solution URL: [Github](https://github.com/Joel-Development/FrontEndMentor---Challenge-6)
 
-## My process
-
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
