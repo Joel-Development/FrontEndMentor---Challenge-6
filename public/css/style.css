@@ -102,9 +102,11 @@ p
   position: relative;
 
   padding: 20px;
-  height: 200px;
+  min-height: 200px;
+  height: max-content;
   max-width: 100%;
   width: 350px;
+  padding-bottom: 70px;
 
   box-shadow: 0 5px 10px var(--card-shadow);
   background-color: var(--bg-card);
@@ -179,6 +181,7 @@ p
   .card-container
   {
     justify-content: center;
+    min-height: max-content;
     height: 500px;
   }
 
