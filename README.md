@@ -17,7 +17,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Joel-Development/FrontEndMentor---Challenge-6)
+- Solution URL: [Github](https://github.com/joel-development/frontendmentor---challenge-6)
+- Live: [Github Pages](https://joel-development.github.io/frontendmentor---challenge-6)
 
 ## Built with
 
